@@ -1,0 +1,11 @@
+.App-bg{
+  background-color: #61dafb;
+  text-align: center;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+.active_class{
+  color: aqua;
+}
+
