@@ -1,10 +1,10 @@
 import React from "react";
-import Navbar from './Navbar';
-import Home from './Components/Home';
-import Action from './Components/Action';
-import Adventure from './Components/Adventure';
-import Comedy from './Components/Comedy';
-import Mystery from './Components/Mystery';
+import Navbar from './components/Navbar';
+import Home from './pages/Home';
+import Action from './pages/Action';
+import Adventure from './pages/Adventure';
+import Comedy from './pages/Comedy';
+import Mystery from './pages/Mystery';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 
 function App(){
