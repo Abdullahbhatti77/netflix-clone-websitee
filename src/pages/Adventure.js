@@ -9,7 +9,7 @@ export default function Adventure() {
         <>
             <h1 className='adventure mt-5'>Adventure Movies</h1>
 
-            <div class="container mt-5 mb-5">
+            <div className="container mt-5 mb-5">
 
                 <Row className="g-4" xs="1" sm="1" md="2" lg="3" xl="3">
                     <Col className="d-flex justify-content-center">

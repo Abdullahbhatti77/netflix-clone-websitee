@@ -16,11 +16,11 @@ function App(){
             <Navbar />
             <Routes>
               <Route exact path="/" element={<Home/>} />Home
-              <Route exact path="/Home" element={<Home/>} />Home
-              <Route exact path="/Action" element={<Action/>} />Action
-              <Route exact path="/Adventure" element={<Adventure/>} />Adventure
-              <Route exact path="/Comedy" element={<Comedy/>} />Comedy
-              <Route exact path="/Mystery" element={<Mystery/>} />Mystery
+              <Route path="/Home" element={<Home/>} />Home
+              <Route path="/Action" element={<Action/>} />Action
+              <Route path="/Adventure" element={<Adventure/>} />Adventure
+              <Route path="/Comedy" element={<Comedy/>} />Comedy
+              <Route path="/Mystery" element={<Mystery/>} />Mystery
 
             </Routes>
 
