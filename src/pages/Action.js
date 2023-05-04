@@ -8,7 +8,7 @@ export default function Action() {
   return (
     <div>
 
-      <h1 className='action mt-5'>Action Movies</h1>
+      <h1 className='action mt-5'>Action fast and furious Movies</h1>
 
       <div className="container mt-5 mb-5">
         <Row className="g-4" xs="1" sm="1" md="2" lg="3" xl="3">
